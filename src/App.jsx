@@ -1,11 +1,8 @@
-
-
+import React from 'react'
 
 const App = () => {
   return (
-    <div className=''>
-     <h2>hello</h2>
-    </div>
+    <div>App</div>
   )
 }
 
